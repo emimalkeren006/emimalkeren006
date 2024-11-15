@@ -1,0 +1,8 @@
+mkdir ex4
+cd ex4
+git init
+git clone <remote-url>
+git remote add <remote-name> <remote-url>
+git branch
+git push main
+git pull main 
